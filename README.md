@@ -75,7 +75,8 @@ xnor (y7,a,b);
 endmodule
 */
 Logic symbol & Truthtable 
-![image](https://user-images.githubusercontent.com/119432417/211157658-591c4fa3-8cbc-43e1-af10-8f92abdfb1f0.png)
+![image](https://user-images.githubusercontent.com/119432417/214312094-592625b5-8174-4410-ac42-f6b9641c3624.png)
+
 
 
 RTL realization
