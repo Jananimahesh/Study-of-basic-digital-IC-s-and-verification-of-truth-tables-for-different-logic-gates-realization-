@@ -82,7 +82,7 @@ Logic symbol & Truthtable
 RTL realization
 Output:
 RTL
-![Screenshot (8)](https://user-images.githubusercontent.com/119432417/211157723-4e611a6c-3fcc-42c8-8656-97b47dabce49.png)
+(https://user-images.githubusercontent.com/119432417/211157723-4e611a6c-3fcc-42c8-8656-97b47dabce49.png)
 
 
 
